@@ -35,3 +35,4 @@ The 3 user level are as follows: 1) Admin  2)Faculty   3)Students
 ![Modules](../master/ss4.JPG)
 
 [Note - The project was made as a mini project with a team of 3 members.]
+For more info: [See here](https://docs.google.com/presentation/d/1hG5YOBO0AQRkfna2s-6NiPgjBsDW79CYJMI3ug4LCTM/edit?usp=sharing)
