@@ -23,15 +23,15 @@ The 3 user level are as follows: 1) Admin  2)Faculty   3)Students
 
 ## System Architecture
 
-[!A1](ss5.JPG)
+![A1](../master/ss5.JPG)
 
-[!A2](ss6.JPG)
+![A2](../master/ss6.JPG)
 
-[!A3](ss7.JPG)
+![A3](../master/ss7.JPG)
 
 
 ## Modules Splitup
 
-[!Modules](ss4.JPG)
+![Modules](../master/ss4.JPG)
 
 [Note - The project was made as a mini project with a team of 3 members.]
