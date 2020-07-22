@@ -2,8 +2,8 @@
 An android application for Students to manage and get information about events in an organization.
 
 The objective behind creating this application is to provide a common platform for all the students and management through which they can gather all the information regarding the events that will take place in a particular university or an organization.
-•This will save a lot of time by providing an easy platform for students to register for the events they are interested in and for the management to create the events.
-•The application will give an easy and secure payment option to the students which will save them from the last minute rush.
+- This will save a lot of time by providing an easy platform for students to register for the events they are interested in and for the management to create the events.
+- The application will give an easy and secure payment option to the students which will save them from the last minute rush.
 
 ## Introduction
 Our application is a 3 user level application.
