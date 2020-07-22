@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457215817221",
+    "firebase_url": "https://crysclave-b8eff.firebaseio.com",
+    "project_id": "crysclave-b8eff",
+    "storage_bucket": "crysclave-b8eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457215817221:android:996e62e09880f05934ce6c",
+        "android_client_info": {
+          "package_name": "com.example.studentloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457215817221-bstrlhm6c0bqatuc54mrehe9r8vjubh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgjaUhqU5hSRds3uaEeL1votZsoRj12Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457215817221-bstrlhm6c0bqatuc54mrehe9r8vjubh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
